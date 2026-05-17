@@ -7,9 +7,8 @@ OpenVICDS is centralized media distribution system for easier to management, sea
 ## Goals
 
 - Centralized media storage
-- Searchable 
 - Multi-organization deployments
-- AI-assisted metadata and semantic search
+- Ai auto tagging and searching.
 - Self-hostable and scalable
 
 ## Status
